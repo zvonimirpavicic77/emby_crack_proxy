@@ -1,10 +1,10 @@
 # emby_crack_proxy
-emby订阅破解，后端api系统。
+Emby subscription cracking, back-end api system.
 
-# 使用
-上传至网站根目录
+# use
+Upload to the website root directory
 
-# 接口列表
+# Interface list
 ```
 /admin/service/registration/validate
 /admin/service/registration/getStatus
